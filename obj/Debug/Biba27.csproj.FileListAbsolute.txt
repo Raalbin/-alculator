@@ -1,0 +1,7 @@
+C:\Users\tkach\source\repos\Biba27\bin\Debug\Biba27.exe.config
+C:\Users\tkach\source\repos\Biba27\bin\Debug\Biba27.exe
+C:\Users\tkach\source\repos\Biba27\bin\Debug\Biba27.pdb
+C:\Users\tkach\source\repos\Biba27\obj\Debug\Biba27.csproj.AssemblyReference.cache
+C:\Users\tkach\source\repos\Biba27\obj\Debug\Biba27.csproj.CoreCompileInputs.cache
+C:\Users\tkach\source\repos\Biba27\obj\Debug\Biba27.exe
+C:\Users\tkach\source\repos\Biba27\obj\Debug\Biba27.pdb
